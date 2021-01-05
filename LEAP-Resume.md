@@ -37,3 +37,6 @@ High School Diploma, Rainier Beach, Seattle, WA 2011
 ### COMPUTER SKILLS
 
 Microsoft Office, Google Apps
+
+### Certificates
+Becoming a Project Manager, LinkedIn Learning 12/2020
