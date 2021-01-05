@@ -7,7 +7,7 @@ Seattle, WA 98106
 
 206-349-3959					|		     dmamcnair@gmail.com
 
-## **WORK EXPERIENCE** 
+### **WORK EXPERIENCE** 
 
 #### Clerical Substitute, Seattle Public Schools, Seattle, WA, 12/2018 – Present  
 - Performed secretary duties, within a secured building, where I screened and checked in all visitors.
@@ -30,10 +30,10 @@ Seattle, WA 98106
 
 -	Assisted with planning events, managing/ executing projects, along with advertising programs, events, and services.
 
-## EDUCATION 
+### EDUCATION 
 
 High School Diploma, Rainier Beach, Seattle, WA 2011
 
-#### COMPUTER SKILLS
+### COMPUTER SKILLS
 
-MS Office: Word, Outlook, PowerPoint, Excel
+Microsoft Office, Google Apps
